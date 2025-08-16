@@ -44,4 +44,4 @@ react-todo-list/
 ## 3. Run the Development Server:
 - npm run dev
 
-- Visit http://localhost:5173 to view the app in your browser.
+- Visit http://localhost:5173 to view the app in your browser(ctrl + click).
